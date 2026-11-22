@@ -1,0 +1,8 @@
+my-arcade/
+├── index.html          <-- Your main website homepage
+├── style.css           <-- Styling for your site layout
+└── games/
+    ├── snake/
+    │   └── index.html  <-- Game 1 files
+    └── platformer/
+        └── index.html  <-- Game 2 files
